@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Anbang Yao"
 title_separator          : "-"
-name                     : &name "Anbang Yao (zhenglongyu)"
+name                     : &name "xxxx (zhenglongyu)"
 description              : &description "PE, Principal Research Scientist (首席研究员), Intel Labs China"
 url                      : "https://zhenglongyu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YaoAnbang/YaoAnbang.github.io"
+repository               : "zhenglongyu/zhenglongyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
