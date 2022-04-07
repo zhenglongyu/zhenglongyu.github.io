@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anbang Yao"
 title_separator          : "-"
-name                     : &name "Anbang Yao (姚安邦)"
+name                     : &name "Anbang Yao (zhenglongyu)"
 description              : &description "PE, Principal Research Scientist (首席研究员), Intel Labs China"
 url                      : "https://zhenglongyu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
