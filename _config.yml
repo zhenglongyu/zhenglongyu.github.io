@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anbang Yao"
+title                    : "xxxxxxx"
 title_separator          : "-"
 name                     : &name "xxxx (zhenglongyu)"
 description              : &description "PE, Principal Research Scientist (首席研究员), Intel Labs China"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anbang Yao (姚安邦)"
+  name             : "xxxx"
   avatar           : "profile.jpg"
   bio              : "PE, Principal Research Scientist (首席研究员), Intel Labs. \n Research Interest: Computer Vision, Deep Learning and Machine Learning"
   location         : "Beijing, China"
